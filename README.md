@@ -1,2 +1,2 @@
 # namida-snapshots
-beta builds for namida
+beta builds for namida.
