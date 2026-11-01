@@ -1,0 +1,43 @@
+{
+  "name": "Namida",
+  "identifier": "com.msob7y.namida.source",
+  "subtitle": "Namida beta builds",
+  "description": "A beautiful and feature-rich music & video player, with YouTube support built in.\n\nBeta build for sideloading, it re-signs with your own Apple ID every 7 days.",
+  "iconURL": "https://raw.githubusercontent.com/namidaco/namida/main/assets/namida_icon.png",
+  "website": "https://github.com/namidaco/namida",
+  "tintColor": "9a7ad1",
+  "apps": [
+    {
+      "name": "Namida",
+      "bundleIdentifier": "com.msob7y.namida",
+      "developerName": "namidaco",
+      "subtitle": "Music & video player",
+      "localizedDescription": "A beautiful and feature-rich music & video player, with YouTube support built in.\n\nBeta build for sideloading, it re-signs with your own Apple ID every 7 days.",
+      "iconURL": "https://raw.githubusercontent.com/namidaco/namida/main/assets/namida_icon.png",
+      "tintColor": "9a7ad1",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "8.5.0",
+          "buildVersion": "261101200",
+          "date": "2026-11-01T21:06:46Z",
+          "localizedDescription": "Beta 8.5.0 (261101200), see the release notes on GitHub.",
+          "downloadURL": "https://github.com/namidaco/namida-snapshots/releases/download/8.5.0-beta%2B261101200/Namida-ios-8.5.0-beta.ipa",
+          "size": 81941943,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Namida finds and syncs with your other devices, and joins listening parties on your local network.",
+          "NSPhotoLibraryAddUsageDescription": "Namida saves the images and videos you share to your photo library."
+        }
+      }
+    }
+  ],
+  "news": []
+}
