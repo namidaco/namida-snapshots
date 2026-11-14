@@ -19,12 +19,12 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "8.6.0",
-          "buildVersion": "261108180",
-          "date": "2026-11-08T18:28:14Z",
-          "localizedDescription": "Beta 8.6.0 (261108180), see the release notes on GitHub.",
-          "downloadURL": "https://github.com/namidaco/namida-snapshots/releases/download/8.6.0-beta%2B261108180/Namida-v8.6.0-beta-ios.ipa",
-          "size": 82216995,
+          "version": "8.6.5",
+          "buildVersion": "261114224",
+          "date": "2026-11-14T22:48:55Z",
+          "localizedDescription": "Beta 8.6.5 (261114224), see the release notes on GitHub.",
+          "downloadURL": "https://github.com/namidaco/namida-snapshots/releases/download/8.6.5-beta%2B261114224/Namida-v8.6.5-beta-ios.ipa",
+          "size": 88184850,
           "minOSVersion": "15.0"
         }
       ],
